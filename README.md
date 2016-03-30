@@ -1,4 +1,4 @@
-![SFProject-logo](http://sfproject.org/SFProject-logo.jpg)<br>
+![SFProject-logo](https://raw.githubusercontent.com/SwordFishProject/sfproject.org/master/misc/image/SFProject-logo.jpg)<br>
 **Here is my unofficial, non-profit, RPMs repository for RedHat related GNU/Linux Distros:**
 **e.g. RHEL, CentOS, Scientific Linux, etc.**
 
