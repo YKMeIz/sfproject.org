@@ -2,7 +2,7 @@
 **Here is my unofficial, non-profit, RPMs repository for RedHat related GNU/Linux Distros:**
 **e.g. RHEL, CentOS, Scientific Linux, etc.**
 
-SFProject is the abbreviation of **S**word**F**ish **P**roject. "Swordfish" name comes from the fastest fish. It was chosen to reflect the repository would contain rebuild packages and some extra latest packages in order to improve RedHat related GNU/Linux Distros performance and add new features. The goal of this repository is to provide more up to date version of packages and some extra packages which cannot be found in official repositories. (*Unfortunity, most of packages are still under rebuilding. The repository currently only provides some **latest** packages such as **docker**, **git**, **gcc**, **glibc**, etc.*)
+SFProject is the abbreviation of **S**word**F**ish **P**roject. "Swordfish" name comes from the fastest fish. It was chosen to reflect the repository would contain rebuild packages and some extra latest packages in order to improve RedHat related GNU/Linux Distros performance and add new features. The goal of this repository is to provide more up to date version of packages and some extra packages which cannot be found in official repositories. (*Unfortunity, most of packages are still under rebuilding. The repository currently only provides some* **latest** *packages such as* **docker**, **git**, **gcc**, **glibc**, *etc.*)
 
 Sometimes, I might push over bleeding edge packages, and every package in this repository might not be tested fully. Therefore, use them **at your OWN RISK**!
 
