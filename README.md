@@ -20,7 +20,7 @@ You can browse packages at [here](http://sfproject.org/download). It contains bo
 
 <br>
 ######Browse sources of packages:
-The sources of rpm packages are available in Github now. They are put as spec format (.spec) instead of the source rpm package (.src.rpm). [Click here](https://github.com/SwordFishProject/SFProject) to browse spec file repository.
+The sources of rpm packages are available in Github now. They are put as spec format (`.spec`) instead of the source rpm package (`.src.rpm`). [Click here](https://github.com/SwordFishProject/SFProject) to browse spec file repository.
 
 If you prefer to browse `src.rpm` packages, click this [link](http://sfproject.org/download/el7/update/source/SRPMS/).
 
