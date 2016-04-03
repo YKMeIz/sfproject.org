@@ -10,7 +10,7 @@ Sometimes, I might push over bleeding edge packages, and every package in this r
 Currently, this repository only support packages for EL7 with x86_64(AMD64).
 
 <br>
-######Installation: 
+######Installation:
 - copy and paste thie command below to install repository config file:
   `yum -y install epel-release && yum install http://sfproject.org/download/el7/SFProject-release-current.el7.sfp.noarch.rpm`
 
@@ -27,3 +27,5 @@ If you prefer to browse source rpm packages, click this [link](http://sfproject.
 <br>
 ######GPG key:
 Here is the GPG key: [Click Me](https://raw.githubusercontent.com/SwordFishProject/sfproject.org/master/RPM-GPG-KEY-el7-SFProject)
+
+
