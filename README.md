@@ -11,7 +11,7 @@ Currently, this repository only support packages for EL7 with x86_64(AMD64).
 
 <br>
 ######Installation:
-- copy and paste thie command below to install repository config file:
+- copy and paste thie command below to install repository config file: <br>
   `yum -y install epel-release && yum install http://sfproject.org/download/el7/SFProject-release-current.el7.sfp.noarch.rpm`
 
 <br>
@@ -20,9 +20,9 @@ You can browse packages at [here](http://sfproject.org/download). It contains bo
 
 <br>
 ######Browse sources of packages:
-The sources of rpm packages are available in Github now. They are put as spec format instead of the source rpm package. [Click here](https://github.com/SwordFishProject/SFProject) to browse spec file repository.
+The sources of rpm packages are available in Github now. They are put as spec format (.spec) instead of the source rpm package (.src.rpm). [Click here](https://github.com/SwordFishProject/SFProject) to browse spec file repository.
 
-If you prefer to browse source rpm packages, click this [link](http://sfproject.org/download/el7/update/source/SRPMS/).
+If you prefer to browse `src.rpm` packages, click this [link](http://sfproject.org/download/el7/update/source/SRPMS/).
 
 <br>
 ######GPG key:
