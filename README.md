@@ -12,8 +12,9 @@ Currently, this repository only support packages for EL7 with x86_64(AMD64).
 
 ##### Installation:
 copy and paste thie command below to install repository config file:
-
-`yum -y install epel-release && yum install http://sfproject.org/download/el7/SFProject-release-current.el7.sfp.noarch.rpm`
+```
+yum -y install epel-release && yum install http://sfproject.org/download/el7/SFProject-release-current.el7.sfp.noarch.rpm
+```
 
 
 ##### Browse RPM binary packages:
