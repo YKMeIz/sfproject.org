@@ -1,0 +1,16 @@
+#!/bin/bash
+
+cd /portage/SRPMS/el7/os/Source/SPackages
+
+cp `ls | grep src.rpm`  /portage/SRPMS/el7/os/Source/WIP
+
+while read PACKAGE
+do
+	/usr/bin/mock -r epel-7-x86_64 --define "%dist .el7.sfp" --resultdir=/portage/SFProject/gcc5/os --rebuild $PACKAGE
+
+	if [ $? -eq 0 ] ; then
+		echo $PACKAGE >> /home/build-success.log
+		rm /portage/SRPMS/el7/os/Source/WIP/$PACKAGE
+	fi
+
+done < /home/build-list

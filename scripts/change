@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while read PACKAGE
+do
+	echo $PACKAGE.src.rpm >> /home/will-remove
+
+done < /home/remove-list
